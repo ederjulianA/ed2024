@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Precios Mayoristas
  * Description: Aplica precios mayoristas cuando el carrito alcanza un subtotal específico.
- * Version: 1.8
+ * Version: 1.9
  * Author:  Eder Alvarez
  * Text Domain: precios-mayoristas
  * Domain Path: /languages
